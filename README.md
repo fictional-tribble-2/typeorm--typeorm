@@ -157,6 +157,9 @@ await timber.remove();
 
 ## Installation
 
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/typeorm--typeorm.svg)](https://www.staging.guardrails.io)
+
+
 
 1. Install the npm package:
 
